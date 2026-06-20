@@ -70,7 +70,3 @@ threat-hunting-framework/
 - EVTX log parsing
 - Threat intelligence feeds
 - ATT&CK coverage visualization
-
-## Resume Summary
-
-Developed a Python-based Threat Hunting Framework capable of analyzing Windows security logs, applying detection rules, matching indicators of compromise, generating investigation reports, and mapping findings to MITRE ATT&CK techniques.
