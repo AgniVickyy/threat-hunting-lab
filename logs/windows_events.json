@@ -1,0 +1,35 @@
+[
+    {
+        "timestamp": "2025-01-01T10:00:00",
+        "event_id": 4625,
+        "user": "administrator",
+        "source_ip": "192.168.1.100",
+        "message": "Failed login"
+    },
+    {
+        "timestamp": "2025-01-01T10:01:00",
+        "event_id": 4625,
+        "user": "administrator",
+        "source_ip": "192.168.1.100",
+        "message": "Failed login"
+    },
+    {
+        "timestamp": "2025-01-01T10:02:00",
+        "event_id": 4624,
+        "user": "administrator",
+        "source_ip": "192.168.1.100",
+        "message": "Successful login"
+    },
+    {
+        "timestamp": "2025-01-01T11:00:00",
+        "event_id": 4688,
+        "user": "admin",
+        "command": "powershell.exe -enc SQBFAFgA"
+    },
+    {
+        "timestamp": "2025-01-01T12:00:00",
+        "event_id": 4732,
+        "user": "attacker",
+        "message": "Added user to Administrators group"
+    }
+]
